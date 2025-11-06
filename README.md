@@ -20,7 +20,7 @@ A FreePBX module for managing and provisioning Yealink SIP phones (T3x, T4x, T5x
 
 ## Installation
 
-From FreePBX Module admin, add a module with the url of XXXXXXXXX
+From FreePBX Module admin, add a module with the url of https://github.com/jaysamthanki/yealinkphones/archive/refs/heads/main.zip
 
 ## Configuration
 
@@ -142,3 +142,4 @@ GNU General Public License v2.0 or later
 Created by Techie Networks Inc for FreePBX 17
 
 Inspired by the Polycom Phones module by Excalibur Partners
+
