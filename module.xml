@@ -1,0 +1,21 @@
+<module>
+	<rawname>yealinkphones</rawname>
+	<repo>standard</repo>
+	<name>Yealink Phones</name>
+	<version>17.0.0</version>
+	<publisher>Techie Networks Inc</publisher>
+	<license>GPLv2+</license>
+	<category>Connectivity</category>
+	<menuitems>
+		<yealinkphones>Yealink Phones</yealinkphones>
+	</menuitems>
+	<description>Adds configurations, options and GUI for Yealink SIP phones</description>
+	<changelog>
+		*17.0.0* Initial release for FreePBX 17
+		Core features: phone management, provisioning, BLF/speed dial support
+		Supports Yealink T3x, T4x, T5x series phones
+	</changelog>
+	<depends>
+		<version>17.0.0</version>
+	</depends>
+</module>
